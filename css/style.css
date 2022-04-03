@@ -23,7 +23,7 @@ a {
   height: 100vh;
   min-width: 360px;
   min-height: 500px;
-  background: url(/img/galaxy.jpg);
+  background: url(img/galaxy.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -65,7 +65,7 @@ a {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background: url(/img/mercury.png);
+    background: url(img/mercury.png);
     background-size: contain;
     box-shadow: 0 0 15px #929694;
     cursor: pointer;
@@ -82,7 +82,7 @@ a {
     width: 45px;
     height: 45px;
     border-radius: 50%;
-    background: url(/img/venus.png);
+    background: url(img/venus.png);
     background-size: contain;
     box-shadow: 0 0 15px #e68618;
     cursor: pointer;
@@ -108,7 +108,7 @@ a {
       width: 50px;
       height: 50px;
       border-radius: 50%;
-      background: url(/img/earth.png);
+      background: url(img/earth.png);
       background-size: contain;
       box-shadow: 0 0 15px #89c4e6;
       cursor: pointer;
@@ -124,7 +124,7 @@ a {
       width: 20px;
       height: 20px;
       border-radius: 50%;
-      background: url(/img/moon.png);
+      background: url(img/moon.png);
       background-size: contain;
       box-shadow: 0 0 15px #d2e3ec;
       cursor: pointer;
@@ -141,7 +141,7 @@ a {
     width: 45px;
     height: 45px;
     border-radius: 50%;
-    background: url(/img/mars.png);
+    background: url(img/mars.png);
     background-size: contain;
     box-shadow: 0 0 15px #e0600a;
     cursor: pointer;
@@ -158,7 +158,7 @@ a {
     width: 70px;
     height: 70px;
     border-radius: 50%;
-    background: url(/img/jupiter.png);
+    background: url(img/jupiter.png);
     background-size: contain;
     box-shadow: 0 0 15px #d4bdac;
     cursor: pointer;
@@ -189,7 +189,7 @@ a {
     width: 55px;
     height: 55px;
     border-radius: 50%;
-    background: url(/img/uranus.png);
+    background: url(img/uranus.png);
     background-size: contain;
     box-shadow: 0 0 15px #8bbbf1;
     cursor: pointer;
@@ -206,7 +206,7 @@ a {
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    background: url(/img/neptune.png);
+    background: url(img/neptune.png);
     background-size: contain;
     box-shadow: 0 0 15px #97bfee;
     cursor: pointer;
