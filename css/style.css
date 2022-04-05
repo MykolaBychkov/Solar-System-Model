@@ -65,7 +65,7 @@ a {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background: url(img/mercury.png);
+    background-image: url(img/mercury.png);
     background-size: contain;
     box-shadow: 0 0 15px #929694;
     cursor: pointer;
